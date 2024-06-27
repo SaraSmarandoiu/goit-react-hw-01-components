@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Mango", "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998671.png", "isOnline": true },
+    { "id": 2, "name": "Kiwi", "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998683.png", "isOnline": false },
+    { "id": 3, "name": "Ajax", "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998690.png", "isOnline": true },
+    { "id": 4, "name": "Jay", "avatar": "https://cdn-icons-png.flaticon.com/512/1998/1998693.png", "isOnline": false }
+  ]
+  
